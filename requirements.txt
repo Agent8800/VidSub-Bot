@@ -1,5 +1,4 @@
-pyrogram
 tgcrypto
 requests
-pytesseract
-Pillow
+pyrogram>=1.2.0
+moviepy>=1.0.3
